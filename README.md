@@ -1,10 +1,10 @@
-# Goruntu-Isleme-Projesi
-Görüntü İşleme dersinin proje ödevi
-1. NOKTA BAZLI İŞLEMLER
-•	Eşikleme, Log Dönüşümü, Gri Seviye Dönüşüm, Kontrast Germe ve Histogram Eşitleme
-2. FİLTRE İŞLEMLERİ
-•	Alçak Geçiren Filtreler (Mean, Median, Gauss) ve Yüksek Geçiren Filtreler (Sobel, Prewitt, Laplace, Roberts
-3. MORFOLOJİK İŞLEMLER
-•	Aşınnma, Genişleme, Açma ve Kapama 
-4.	GÖRÜNTÜ SIKIŞTIRMA İŞLEMLERİ
-•	2 tane Kayıplı ve 2 tane Kayıpsız Yöntem
+# Image-Processing-Project
+Project assignment for Image Processing course
+1. POINT BASED TRANSACTIONS
+• Thresholding, Log Transform, Gray Level Transform, Contrast Stretching and Histogram Equalization
+2. FILTER PROCESSES
+• Low Pass Filters (Mean, Median, Gauss) and High Pass Filters (Sobel, Prewitt, Laplace, Roberts
+3. MORPHOLOGICAL PROCESSES
+• Wear, Expansion, Opening and Closing
+4. IMAGE COMPRESSION PROCESSES
+• 2 Lossy and 2 Lossless Methods
